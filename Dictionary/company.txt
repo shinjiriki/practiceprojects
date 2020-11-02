@@ -1,0 +1,100 @@
+3M
+Accenture
+adidas
+Adobe
+Allianz
+Amazon
+American Express
+Apple
+Audi
+AXA
+BMW
+Budweiser
+Burberry
+Canon
+Cartier
+Caterpillar
+Cisco
+Citi
+Coca-Cola
+Colgate
+Corona
+Danone
+DHL
+Dior
+Discovery
+Disney
+eBay
+Facebook
+FedEx
+Ford
+GE
+Gillette
+Goldman Sachs
+Google
+Gucci
+H&M
+Harley-Davidson
+Heineken
+Hermes
+Hewlett Packard Enterprise
+Honda
+HP
+HSBC
+Huawei
+Hyundai
+IBM
+IKEA
+Intel
+J.P. Morgan
+Jack Daniel's
+John Deere
+Johnnie Walker
+Johnson & Johnson
+Kellogg's
+KFC
+Kia
+Land Rover
+Lego
+Lenovo
+L'Oreal
+Louis Vuitton
+MasterCard
+McDonald's
+Mercedes-Benz
+Microsoft
+Mini
+Moet & Chandon
+Morgan Stanley
+MTV
+Nescafe
+Nestle
+Nike
+Nissan
+Oracle
+Pampers
+Panasonic
+PayPal
+Pepsi
+Philips
+Porsche
+Prada
+Ralph Lauren
+Samsung
+Santander
+SAP
+Shell
+Siemens
+Smirnoff
+Sony
+Sprite
+Starbucks
+Tesla
+Thomson Reuters
+Tiffany & Co.
+Toyota
+UPS
+Visa
+Volkswagen
+Xerox
+Zara
